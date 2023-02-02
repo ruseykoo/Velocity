@@ -1,5 +1,5 @@
 # Project: Velocity
-___
+
 ### Description
 
 * Personal project
