@@ -13,4 +13,4 @@
 
 ### GitHub Pages
 
-* https://ruseykoo.github.io/velocity/
+* https://ruseykoo.github.io/Velocity/
